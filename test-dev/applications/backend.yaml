@@ -11,7 +11,7 @@ spec:
     namespace: argocd
   source:
     path          : "guestbook"
-    repoURL       : "https://github.com/muxe1/argocd-example-apps"
+    repoURL       : "https://github.com/muxe1/test"
     targetRevision: HEAD
   project: default
   syncPolicy:
